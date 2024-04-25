@@ -170,11 +170,11 @@
     }
     @media (min-width: 700px) {
         :root {
-          --bg-url: url(./assets/bg-desktop.jpg);
+          --bg-url: url(./assets/imagem\ bla.png);
         }
       
         .light {
-          --bg-url: url(./assets/bg-desktop-light.jpg);
+          --bg-url: url(./assets/rocketseat.png);
         }
       }
       /* animation */
